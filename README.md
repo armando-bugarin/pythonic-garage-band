@@ -1,8 +1,9 @@
-# Lab - Class 03
+# Lab - Class 04
 
 ## Project: pythonic-garage-band
 
-### Author: Armando Bugarin
+## Author: Armando Bugarin
 
 #### Tests
-- **How do you run tests?** pytest
+- **How do you run tests?** `pytest`
+- **Any tests of note?** All 16 tests passed
